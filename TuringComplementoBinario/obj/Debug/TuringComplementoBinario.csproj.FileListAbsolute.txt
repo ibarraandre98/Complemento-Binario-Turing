@@ -1,0 +1,10 @@
+C:\Users\Muski\source\repos\TuringComplementoBinario\TuringComplementoBinario\bin\Debug\TuringComplementoBinario.exe.config
+C:\Users\Muski\source\repos\TuringComplementoBinario\TuringComplementoBinario\bin\Debug\TuringComplementoBinario.exe
+C:\Users\Muski\source\repos\TuringComplementoBinario\TuringComplementoBinario\bin\Debug\TuringComplementoBinario.pdb
+C:\Users\Muski\source\repos\TuringComplementoBinario\TuringComplementoBinario\obj\Debug\TuringComplementoBinario.csprojAssemblyReference.cache
+C:\Users\Muski\source\repos\TuringComplementoBinario\TuringComplementoBinario\obj\Debug\TuringComplementoBinario.Form1.resources
+C:\Users\Muski\source\repos\TuringComplementoBinario\TuringComplementoBinario\obj\Debug\TuringComplementoBinario.Properties.Resources.resources
+C:\Users\Muski\source\repos\TuringComplementoBinario\TuringComplementoBinario\obj\Debug\TuringComplementoBinario.csproj.GenerateResource.cache
+C:\Users\Muski\source\repos\TuringComplementoBinario\TuringComplementoBinario\obj\Debug\TuringComplementoBinario.csproj.CoreCompileInputs.cache
+C:\Users\Muski\source\repos\TuringComplementoBinario\TuringComplementoBinario\obj\Debug\TuringComplementoBinario.exe
+C:\Users\Muski\source\repos\TuringComplementoBinario\TuringComplementoBinario\obj\Debug\TuringComplementoBinario.pdb
